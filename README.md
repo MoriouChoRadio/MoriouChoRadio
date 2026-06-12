@@ -13,7 +13,7 @@ $$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31daier4nvmys6dbi6k2okp2ot7a&cover_image=true&theme=novatorem&show_offline=false&background_color=ffadca&interchange=true&bar_color=ffadca&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<a href="https://moldyspores.atabook.org/">ata</a>
+<a href="https://moldyspores.atabook.org/">ata</a> , <a href="https://rentry.co/echoesact3">rentry</a>
 
 <h6 align="center">
 $$\color{#99A566} fixated $$ $$\color{#DFBF79} on $$ $$\color{#99A566} btd $$ $$\color{#DFBF79} and $$ $$\color{#99A566} jjba4 $$ $$\color{#DFBF79} ( rohan  $$ $$\color{#DFBF79} + $$ $$\color{#99A566} koichi ) $$
