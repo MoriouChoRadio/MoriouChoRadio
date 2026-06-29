@@ -1,7 +1,7 @@
 
 <h6 align="center">
 
-![profileviews](https://komarev.com/ghpvc/?username=Welcome2Paradise&label=stalkers&color=99A566)
+![profileviews](https://komarev.com/ghpvc/?username=Welcome2Paradise&label=stalkers&color=99A566) <img alt="GitHub followers" src="https://img.shields.io/github/followers/putuserhere?MoriouChoRadiostyle=flat&label=fans&labelColor=C77B55&color=99A566">
 
 <kbd>ME AND <a href="https://github.com/GUT-GORE">ARCHIVE</a> = TOILETDUO
 
