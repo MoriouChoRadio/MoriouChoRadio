@@ -18,7 +18,7 @@ $$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
 <a href="https://moldyspores.atabook.org/">ata</a> , <a href="https://rentry.co/echoesact3">rentry</a> , <a href="https://fluffle.cc/acto3">rentry2</a> , <a href="https://guns.lol/pinkdarkboy">guns</a>
 
 <h6 align="center">
-$$\color{#99A566} fixated $$ $$\color{#DFBF79} on $$ $$\color{#99A566} btd $$ $$\color{#DFBF79} and $$ $$\color{#99A566} jjba4 $$ $$\color{#DFBF79} ( rohan  $$ $$\color{#DFBF79} + $$ $$\color{#99A566} koichi ) $$
+$$\color{#99A566} fixated $$ $$\color{#DFBF79} on $$ $$\color{#99A566} jjba $$ $$\color{#DFBF79} ( rohan  $$ $$\color{#DFBF79} + $$ $$\color{#99A566} koichi ) $$
 
 <img src="https://files.catbox.moe/p7oj6g.png" width="100" />
 
