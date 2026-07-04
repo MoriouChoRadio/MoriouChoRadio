@@ -5,7 +5,6 @@
 
 <h6 align="center">
 
-<kbd>ME AND <a href="https://github.com/GUT-GORE">ARCHIVE</a> = TOILETDUO
 
 <h6 align="center">
 $$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
