@@ -1,14 +1,14 @@
 
 <h6 align="center">
 
-![profileviews](https://komarev.com/ghpvc/?username=Welcome2Paradise&label=stalkers&color=99A566) 
+![profileviews](https://komarev.com/ghpvc/?username=Welcome2Paradise&label=stalkers&color=BCBF82) 
 
 <h6 align="center">
 
 
 <h6 align="center">
 $$\color{#4F8F7F} Koichi $$ $$\color{#BCBF82} or $$ $$\color{#4F8F7F} Mutt $$
-<img src="https://files.catbox.moe/dasval.png" width="250" />
+<img src="https://files.catbox.moe/dasval.png" width="600" />
 
 <h6 align="center">
   
