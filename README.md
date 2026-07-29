@@ -10,7 +10,7 @@
 
 <img src="https://files.catbox.moe/z3ft36.png" width="770" />
 
-<img src="https://files.catbox.moe/ci5q40.png" width="40" /> <img src="https://files.catbox.moe/san3ns.png" width="40" />
+<img src="https://files.catbox.moe/ci5q40.png" width="50" /> <img src="https://files.catbox.moe/san3ns.png" width="50" />
 
 
 
