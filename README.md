@@ -10,6 +10,8 @@
 
 <img src="https://files.catbox.moe/z3ft36.png" width="770" />
 
+<img src="https://files.catbox.moe/eaxgxy.jpe" width="40" /> <img src="https://files.catbox.moe/e6rjaq.jpe" width="40" />
+
 
 
 <h6 align="center">
