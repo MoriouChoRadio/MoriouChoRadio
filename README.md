@@ -8,7 +8,7 @@
 
 <h6 align="center">
 
-<img src="https://files.catbox.moe/z3ft36.png" width="670" />
+<img src="https://files.catbox.moe/z3ft36.png" width="770" />
 
 
 
