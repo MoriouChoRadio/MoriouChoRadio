@@ -18,8 +18,6 @@
 
 <a href="https://moldyspores.atabook.org/">ata</a> , <a href="https://moriouh.straw.page">straw</a> , <a href="https://rentry.co/echoesact3">rentry</a> , <a href="https://fluffle.cc/acto3">rentry2</a> , <a href="https://guns.lol/pinkdarkboy">guns</a>
 
-<h6 align="center">
-
 $$\color{#4F8F7F} fixated $$ $$\color{#BCBF82} on $$ $$\color{#4F8F7F} jjba $$ $$\color{#BCBF82} ( rohan  $$ $$\color{#BCBF82} + $$ $$\color{#4F8F7F} koichi ) $$
 
 
