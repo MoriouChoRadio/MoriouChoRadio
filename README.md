@@ -7,8 +7,8 @@
 
 
 <h6 align="center">
-$$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
-<img src="https://files.catbox.moe/fxaf6f.png" width="250" />
+$$\color{#4F8F7F} Koichi $$ $$\color{#BCBF82} or $$ $$\color{#4F8F7F} Mutt $$
+<img src="https://files.catbox.moe/dasval.png" width="250" />
 
 <h6 align="center">
   
@@ -17,8 +17,6 @@ $$\color{#99A566} Koichi $$ $$\color{#DFBF79} or $$ $$\color{#99A566} Mutt $$
 <a href="https://moldyspores.atabook.org/">ata</a> , <a href="https://moriouh.straw.page">straw</a> , <a href="https://rentry.co/echoesact3">rentry</a> , <a href="https://fluffle.cc/acto3">rentry2</a> , <a href="https://guns.lol/pinkdarkboy">guns</a>
 
 <h6 align="center">
-$$\color{#99A566} fixated $$ $$\color{#DFBF79} on $$ $$\color{#99A566} jjba $$ $$\color{#DFBF79} ( rohan  $$ $$\color{#DFBF79} + $$ $$\color{#99A566} koichi ) $$
+$$\color{#4F8F7F} fixated $$ $$\color{#BCBF82} on $$ $$\color{#4F8F7F} jjba $$ $$\color{#BCBF82} ( rohan  $$ $$\color{#BCBF82} + $$ $$\color{#4F8F7F} koichi ) $$
 
-<img src="https://files.catbox.moe/p7oj6g.png" width="100" />
 
-<img src="https://files.catbox.moe/dbvolh.png" width="200" /> <a href="https://github.com/westalis">Koid Forgshikage</a>
