@@ -1,7 +1,7 @@
 
 <h6 align="center">
 
-![profileviews](https://komarev.com/ghpvc/?username=Welcome2Paradise&label=stalkers&color=BCBF82) 
+![profileviews](https://komarev.com/ghpvc/?username=Welcome2Paradise&label=stalkers&color=4F8F7F) 
 
 <h6 align="center">
 
