@@ -7,8 +7,10 @@
 
 
 <h6 align="center">
-$$\color{#4F8F7F} Koichi $$ $$\color{#BCBF82} or $$ $$\color{#4F8F7F} Mutt $$
+
 <img src="https://files.catbox.moe/dasval.png" width="670" />
+
+$$\color{#4F8F7F} Koichi $$ $$\color{#BCBF82} or $$ $$\color{#4F8F7F} Mutt $$
 
 <h6 align="center">
   
