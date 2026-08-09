@@ -24,6 +24,6 @@
 <h6 align="center">
   $$\color{#4F8F7F} Koichi $$ $$\color{#BCBF82} or $$ $$\color{#4F8F7F} Mutt $$
   <h6 align="center">
-$$\color{#4F8F7F} fixated $$ $$\color{#BCBF82} on $$ $$\color{#4F8F7F} jjba $$ $$\color{#BCBF82} ( rohan  $$ $$\color{#BCBF82} + $$ $$\color{#4F8F7F} koichi ) $$
+$$\color{#4F8F7F} fixated $$ $$\color{#BCBF82} on $$ $$\color{#4F8F7F} jjba $$ $$\color{#BCBF82} and  $$ $$\color{#BCBF82} + $$ $$\color{#4F8F7F} kyle gallner $$
 
 
