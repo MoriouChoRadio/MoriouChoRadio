@@ -24,6 +24,6 @@
 <h6 align="center">
   $$\color{#4F8F7F} Koichi $$ $$\color{#BCBF82} or $$ $$\color{#4F8F7F} Mutt $$
   <h6 align="center">
-$$\color{#4F8F7F} fixated $$ $$\color{#BCBF82} on $$ $$\color{#4F8F7F} jjba $$ $$\color{#BCBF82} and  $$ $$\color{#BCBF82} kyle $$ $$\color{#4F8F7F}  gallner $$
+$$\color{#4F8F7F} fixated $$ $$\color{#BCBF82} on $$ $$\color{#4F8F7F} jjba $$ $$\color{#BCBF82} and  $$ $$\color{#4F8F7F} kyle $$ $$\color{#BCBF82}  gallner $$
 
 
