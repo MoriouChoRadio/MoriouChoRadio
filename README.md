@@ -8,7 +8,7 @@
 
 <h6 align="center">
 
-<img src="https://files.catbox.moe/z3ft36.png" width="770" />
+<img src="https://files.catbox.moe/molcdo.png" width="770" />
 
 <img src="https://files.catbox.moe/ci5q40.png" width="50" /> <img src="https://files.catbox.moe/san3ns.png" width="50" />
 
@@ -22,7 +22,7 @@
 <a href="https://moldyspores.atabook.org/">ata</a> , <a href="https://rentry.co/moistboyz">urls</a> , <a href="https://moriouh.straw.page">straw</a> , <a href="https://rentry.co/passengr">rentry ( main )</a> ,<a href="https://rentry.co/echoesact3">rentry2</a> , <a href="https://fluffle.cc/acto3">rentry3</a> , <a href="https://guns.lol/pinkdarkboy">guns</a>
 
 <h6 align="center">
-  $$\color{#4F8F7F} Koichi $$ $$\color{#BCBF82} or $$ $$\color{#4F8F7F} Mutt $$
+  $$\color{#4F8F7F} Randy $$ $$\color{#BCBF82} or $$ $$\color{#4F8F7F} Mutt $$
   <h6 align="center">
 $$\color{#4F8F7F} fixated $$ $$\color{#BCBF82} on $$ $$\color{#4F8F7F} jjba $$ $$\color{#BCBF82} and  $$ $$\color{#4F8F7F} kyle $$ $$\color{#BCBF82}  gallner $$
 
